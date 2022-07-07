@@ -1,13 +1,4 @@
-/*
-La sentencia if es :
 
-if(condicion){
-instruccion
-}
-else{
-instruccion2
-}
-*/
 package condicionales;
 
 import java.util.Scanner;
